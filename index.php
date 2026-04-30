@@ -19,7 +19,7 @@
 
   <!-- BERANDA -->
   <section id="home" class="page active">
-    <img src="/Frame 1.png" width="1000px" height="200px" style="z-index: 10; position: relative;" />
+    <img src="Frame 1.png" width="1000px" height="200px" style="z-index: 10; position: relative;" />
     <div class="face" style="position: absolute;">
       <div class="eye"><div class="pupil"></div></div>
       <div class="eye"><div class="pupil"></div></div>
@@ -27,7 +27,7 @@
     </div>
 
  
-     <img src="/Frame 2.png" width="1000px" height="200px" style="z-index: 10; position: relative; margin-top: 100px; " />
+     <img src="Frame 2.png" width="1000px" height="200px" style="z-index: 10; position: relative; margin-top: 100px; " />
   </section>
 
   <!-- PROFIL -->
